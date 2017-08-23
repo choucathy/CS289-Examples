@@ -1,0 +1,6 @@
+C:\CSE289-Examples\HomeWorkConsole\HomeWorkConsole\bin\Debug\HomeWorkConsole.exe.config
+C:\CSE289-Examples\HomeWorkConsole\HomeWorkConsole\bin\Debug\HomeWorkConsole.exe
+C:\CSE289-Examples\HomeWorkConsole\HomeWorkConsole\bin\Debug\HomeWorkConsole.pdb
+C:\CSE289-Examples\HomeWorkConsole\HomeWorkConsole\obj\Debug\HomeWorkConsole.csprojResolveAssemblyReference.cache
+C:\CSE289-Examples\HomeWorkConsole\HomeWorkConsole\obj\Debug\HomeWorkConsole.exe
+C:\CSE289-Examples\HomeWorkConsole\HomeWorkConsole\obj\Debug\HomeWorkConsole.pdb

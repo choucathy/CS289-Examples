@@ -1,0 +1,9 @@
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\bin\Debug\HomeWorkWindowsForms01.exe.config
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\bin\Debug\HomeWorkWindowsForms01.exe
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\bin\Debug\HomeWorkWindowsForms01.pdb
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\obj\Debug\HomeWorkWindowsForms01.csprojResolveAssemblyReference.cache
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\obj\Debug\HomeWorkWindowsForms01.Form1.resources
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\obj\Debug\HomeWorkWindowsForms01.Properties.Resources.resources
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\obj\Debug\HomeWorkWindowsForms01.csproj.GenerateResource.Cache
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\obj\Debug\HomeWorkWindowsForms01.exe
+C:\CSE289-Examples\HomeWorkWindowsForms01\HomeWorkWindowsForms01\obj\Debug\HomeWorkWindowsForms01.pdb
