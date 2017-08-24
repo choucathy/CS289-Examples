@@ -3,3 +3,4 @@ C:\CSE289-Examples\HomeWorkWindowsForms01\Console\bin\Debug\Console.exe
 C:\CSE289-Examples\HomeWorkWindowsForms01\Console\bin\Debug\Console.pdb
 C:\CSE289-Examples\HomeWorkWindowsForms01\Console\obj\Debug\Console.exe
 C:\CSE289-Examples\HomeWorkWindowsForms01\Console\obj\Debug\Console.pdb
+C:\CSE289-Examples\HomeWorkWindowsForms01\Console\obj\Debug\ConsoleHomeWork01.csprojResolveAssemblyReference.cache
