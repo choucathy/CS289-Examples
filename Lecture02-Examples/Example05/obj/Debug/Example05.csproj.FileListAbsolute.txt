@@ -1,0 +1,9 @@
+C:\CSE289-Examples\Lecture02-Examples\Example05\bin\Debug\Example05.exe.config
+C:\CSE289-Examples\Lecture02-Examples\Example05\bin\Debug\Example05.exe
+C:\CSE289-Examples\Lecture02-Examples\Example05\bin\Debug\Example05.pdb
+C:\CSE289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.csprojResolveAssemblyReference.cache
+C:\CSE289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.MainWindow.resources
+C:\CSE289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.Properties.Resources.resources
+C:\CSE289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.csproj.GenerateResource.Cache
+C:\CSE289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.exe
+C:\CSE289-Examples\Lecture02-Examples\Example05\obj\Debug\Example05.pdb
