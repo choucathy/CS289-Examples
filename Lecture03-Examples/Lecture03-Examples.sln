@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{8B37D350-97F3-4B5D-839C-4BC735F03F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonLibrary", "..\PokemonLibrary\PokemonLibrary\PokemonLibrary.csproj", "{186A7860-FF5B-42AF-BCA2-F074F819EB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{A4EE0DA0-F491-4825-811B-1B4CDE06DEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code.Orz", "..\Code.Orz\Code.Orz\Code.Orz.csproj", "{D34B143D-528F-448F-8D89-E090A6ACA922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B37D350-97F3-4B5D-839C-4BC735F03F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B37D350-97F3-4B5D-839C-4BC735F03F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B37D350-97F3-4B5D-839C-4BC735F03F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B37D350-97F3-4B5D-839C-4BC735F03F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186A7860-FF5B-42AF-BCA2-F074F819EB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186A7860-FF5B-42AF-BCA2-F074F819EB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186A7860-FF5B-42AF-BCA2-F074F819EB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186A7860-FF5B-42AF-BCA2-F074F819EB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EE0DA0-F491-4825-811B-1B4CDE06DEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EE0DA0-F491-4825-811B-1B4CDE06DEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EE0DA0-F491-4825-811B-1B4CDE06DEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EE0DA0-F491-4825-811B-1B4CDE06DEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34B143D-528F-448F-8D89-E090A6ACA922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34B143D-528F-448F-8D89-E090A6ACA922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34B143D-528F-448F-8D89-E090A6ACA922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34B143D-528F-448F-8D89-E090A6ACA922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
