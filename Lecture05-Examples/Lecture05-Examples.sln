@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVieShowApp", "..\Lecture04-Examples\MyVieShowApp\MyVieShowApp.csproj", "{7F486A5D-41D9-4EA9-9FE5-6DD5E8BA57C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{6AA79EB5-05E2-431D-B108-1549AE366D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueStatement", "ContinueStatement\ContinueStatement.csproj", "{4B0E7BFD-7500-4530-B525-4A5C62322B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F486A5D-41D9-4EA9-9FE5-6DD5E8BA57C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F486A5D-41D9-4EA9-9FE5-6DD5E8BA57C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F486A5D-41D9-4EA9-9FE5-6DD5E8BA57C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F486A5D-41D9-4EA9-9FE5-6DD5E8BA57C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA79EB5-05E2-431D-B108-1549AE366D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA79EB5-05E2-431D-B108-1549AE366D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA79EB5-05E2-431D-B108-1549AE366D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA79EB5-05E2-431D-B108-1549AE366D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0E7BFD-7500-4530-B525-4A5C62322B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0E7BFD-7500-4530-B525-4A5C62322B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0E7BFD-7500-4530-B525-4A5C62322B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0E7BFD-7500-4530-B525-4A5C62322B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
